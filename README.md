@@ -1,9 +1,7 @@
 Hi 👋, I'm Karim Mahmoud
 Passionate Back-End Developer | .NET Specialist | Building Scalable Solutions
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKarim1125&#x26;count_bg=%230E75B6&#x26;title_bg=%23555555&#x26;icon=&#x26;icon_color=%23E7E7E7&#x26;title=Profile+Views&#x26;edge_flat=true" alt="Profile Views">  
-  
-
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKarim1125&#x26;count_bg=%230E75B6&#x26;title_bg=%23555555&#x26;icon=&#x26;icon_color=%23E7E7E7&#x26;title=Profile+Views&#x26;edge_flat=true" alt="Profile Views">
 
 👨‍💻 About Me
 
@@ -19,7 +17,6 @@ Passionate Back-End Developer | .NET Specialist | Building Scalable Solutions
 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,aspnetcore,sqlserver,python,cpp,git,github,postman,vscode,azure,aws,docker" height="60">
 
-I've expanded the skills list with relevant tools like Azure, AWS, and Docker for a back-end developer. Feel free to adjust based on your expertise.
 
 📊 GitHub Stats
 
