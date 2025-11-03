@@ -1,8 +1,7 @@
 Hi 👋, I'm Karim Mahmoud
 Passionate Back-End Developer | .NET Specialist | Building Scalable Solutions
 
-  <img src="https://komarev.com/ghpvc/?username=Karim1125&#x26;label=Profile%20views&#x26;color=0e75b6&#x26;style=flat" alt="Profile Views">  
-
+  <img src="https://komarev.com/ghpvc/?username=Karim1125&#x26;label=Profile%20views&#x26;color=0e75b6&#x26;style=flat" alt="Profile Views">
 👨‍💻 About Me
 
 🔭 Currently working on innovative back-end projects using .NET technologies.
@@ -28,10 +27,18 @@ Passionate Back-End Developer | .NET Specialist | Building Scalable Solutions
 
 
 🚀 Projects
-Here you can list some of your key projects with brief descriptions and links. For example:
 
-Project Name: A scalable web API built with ASP.NET Core and SQL Server. Features include authentication, data caching, and integration with third-party services.
-Another Project: Description here.
+MechanicShop Management Platform (June 2025 – Aug 2025, Full-Stack Software Engineer): Developed a comprehensive workshop management system that digitalizes automotive repair operations, streamlining workflow management, customer service, and business operations.
+
+Architected and implemented a scalable solution using Clean Architecture and Domain-Driven Design.
+Reduced administrative workload by 40% through automated work order processing.
+Implemented real-time repair status tracking and notification system using SignalR.
+Designed a dynamic billing system with discount management and automated reporting.
+Technical Stack: ASP.NET Core Web API, Entity Framework Core, SQL Server, Blazor WebAssembly, SignalR, Docker, Prometheus, Seq, xUnit.
+Design Patterns: CQRS, Clean Architecture, Domain-Driven Design.
+Business Impact: Streamlined workshop operations, improved customer satisfaction, and enhanced business analytics with real-time insights.
+
+
 
 Pin your top repositories on your GitHub profile for better visibility!
 
@@ -41,4 +48,4 @@ LinkedIn: Karim Mahmoud
 Email: your.email@example.com
 Portfolio: yourportfolio.com (add if available)
 
-Thanks for visiting! Let's connect and build something amazing together.
+Thanks for visiting! Let's connect and build something amazing together. 🚀
