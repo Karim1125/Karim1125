@@ -2,13 +2,14 @@ Hi 👋, I'm Karim Mahmoud
 Passionate Back-End Developer | .NET Specialist | Building Scalable Solutions
 
   <img src="https://komarev.com/ghpvc/?username=Karim1125&#x26;label=Profile%20views&#x26;color=0e75b6&#x26;style=flat" alt="Profile Views">
+
 👨‍💻 About Me
 
 🔭 Currently working on innovative back-end projects using .NET technologies.
 🌱 Learning advanced cloud architectures and DevOps practices.
 👯 Open to collaborating on open-source .NET projects.
 💬 Ask me about C#, ASP.NET Core, SQL, and API design.
-📫 Reach me at: [your.email@example.com] (replace with your email)
+📫 Reach me at: karim2468mahmoud2468@gmail.com
 ⚡ Fun fact: I can debug code faster than I can make coffee!
 
 
@@ -38,14 +39,9 @@ Technical Stack: ASP.NET Core Web API, Entity Framework Core, SQL Server, Blazor
 Design Patterns: CQRS, Clean Architecture, Domain-Driven Design.
 Business Impact: Streamlined workshop operations, improved customer satisfaction, and enhanced business analytics with real-time insights.
 
-
-
-Pin your top repositories on your GitHub profile for better visibility!
-
 📫 Get in Touch
 
 LinkedIn: Karim Mahmoud
-Email: your.email@example.com
-Portfolio: yourportfolio.com (add if available)
+Email: karim2468mahmoud2468@gmail.com
 
 Thanks for visiting! Let's connect and build something amazing together. 🚀
