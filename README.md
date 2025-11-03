@@ -1,7 +1,7 @@
 Hi 👋, I'm Karim Mahmoud
 Passionate Back-End Developer | .NET Specialist | Building Scalable Solutions
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKarim1125&#x26;count_bg=%230E75B6&#x26;title_bg=%23555555&#x26;icon=&#x26;icon_color=%23E7E7E7&#x26;title=Profile+Views&#x26;edge_flat=true" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Karim1125&#x26;label=Profile%20views&#x26;color=0e75b6&#x26;style=flat" alt="Profile Views">  
 
 👨‍💻 About Me
 
@@ -41,4 +41,4 @@ LinkedIn: Karim Mahmoud
 Email: your.email@example.com
 Portfolio: yourportfolio.com (add if available)
 
-Thanks for visiting! Let's connect and build something amazing together. 🚀
+Thanks for visiting! Let's connect and build something amazing together.
