@@ -1,12 +1,7 @@
 Hi 👋, I'm Karim Mahmoud
 Passionate Back-End Developer | .NET Specialist | Building Scalable Solutions
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fa-hemeda&#x26;count_bg=%230E75B6&#x26;title_bg=%23555555&#x26;icon=&#x26;icon_color=%23E7E7E7&#x26;title=Profile+Views&#x26;edge_flat=true" alt="Profile Views">
-
-
-  
-    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
-  
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKarim1125&#x26;count_bg=%230E75B6&#x26;title_bg=%23555555&#x26;icon=&#x26;icon_color=%23E7E7E7&#x26;title=Profile+Views&#x26;edge_flat=true" alt="Profile Views">  
   
 
 
@@ -28,11 +23,11 @@ I've expanded the skills list with relevant tools like Azure, AWS, and Docker fo
 
 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&#x26;show_icons=true&#x26;theme=codeSTACKr&#x26;hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&#x26;theme=codeSTACKr&#x26;hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karim1125&#x26;show_icons=true&#x26;theme=codeSTACKr&#x26;hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karim1125&#x26;theme=codeSTACKr&#x26;hide_border=true" alt="GitHub Streak" width="48%">
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&#x26;layout=compact&#x26;langs_count=8&#x26;theme=codeSTACKr&#x26;hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karim1125&#x26;layout=compact&#x26;langs_count=8&#x26;theme=codeSTACKr&#x26;hide_border=true" alt="Top Languages">
 
 
 🚀 Projects
