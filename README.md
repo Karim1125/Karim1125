@@ -26,10 +26,19 @@ Hi 👋, I'm **Karim Mahmoud**
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Karim1125&show_icons=true&theme=codeSTACKr&hide_border=true" width="48%">
-<img src="https://streak-stats.demolab.com?user=Karim1125&theme=codeSTACKr&hide_border=true" width="48%">
+### 🔥 Profile Details
 
-<img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Karim1125&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karim1125&theme=github_dark" width="100%">
+
+### 📈 General Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karim1125&theme=github_dark" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karim1125&theme=github_dark" width="48%">
+
+### 🧠 Languages Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karim1125&theme=github_dark" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karim1125&theme=github_dark" width="48%">
 
 ---
 
