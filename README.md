@@ -26,10 +26,10 @@ Hi 👋, I'm **Karim Mahmoud**
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Karim1125&show_icons=true&theme=codeSTACKr&hide_border=true" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karim1125&theme=codeSTACKr&hide_border=true" width="48%">
+<img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Karim1125&show_icons=true&theme=codeSTACKr&hide_border=true" width="48%">
+<img src="https://streak-stats.demolab.com?user=Karim1125&theme=codeSTACKr&hide_border=true" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karim1125&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true">
+<img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Karim1125&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true">
 
 ---
 
