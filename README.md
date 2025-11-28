@@ -15,7 +15,7 @@ Passionate Back-End Developer | .NET Specialist | Building Scalable Solutions
 
 🛠️ Languages & Tools
 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,aspnetcore,sqlserver,python,cpp,git,github,postman,vscode,azure,aws,docker" height="60">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,python,cpp,git,github,postman,vscode,azure,aws,docker" height="60">
 
 
 📊 GitHub Stats
