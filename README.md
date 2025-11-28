@@ -26,19 +26,25 @@ Hi 👋, I'm **Karim Mahmoud**
 
 ## 📊 GitHub Stats
 
-### 🔥 Profile Details
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karim1125&theme=github_dark" width="100%"></td>
+  </tr>
+</table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karim1125&theme=github_dark" width="100%">
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karim1125&theme=github_dark" width="100%"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karim1125&theme=github_dark" width="100%"></td>
+  </tr>
+</table>
 
-### 📈 General Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karim1125&theme=github_dark" width="48%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karim1125&theme=github_dark" width="48%">
-
-### 🧠 Languages Overview
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karim1125&theme=github_dark" width="48%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karim1125&theme=github_dark" width="48%">
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karim1125&theme=github_dark" width="100%"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karim1125&theme=github_dark" width="100%"></td>
+  </tr>
+</table>
 
 ---
 
