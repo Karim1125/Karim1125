@@ -2,9 +2,6 @@
 
 Hi 👋, I'm **Karim Mahmoud**
 **Passionate Back-End Developer | .NET Specialist | Building Scalable Solutions**
-
-<img src="https://komarev.com/ghpvc/?username=Karim1125&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-
 ---
 
 ## 👨‍💻 About Me
