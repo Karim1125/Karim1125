@@ -1,9 +1,5 @@
 # README Preview (Professional Version)
 
-Hi, I'm **Karim Mahmoud**
-**Passionate Back-End Developer | .NET Specialist | Building Scalable Solutions**
----
-
 ## 👨‍💻 About Me
 
 *  Currently working on innovative back-end projects using .NET technologies.
