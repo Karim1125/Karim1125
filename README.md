@@ -6,13 +6,10 @@ Hi, I'm **Karim Mahmoud**
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently working on innovative back-end projects using .NET technologies.
-* 🌱 Learning advanced cloud architectures and DevOps practices.
-* 👯 Open to collaborating on open-source .NET projects.
-* 💬 Ask me about **C#, ASP.NET Core, SQL, and API design**.
-* 📫 Reach me at: **[karim2468mahmoud2468@gmail.com](mailto:karim2468mahmoud2468@gmail.com)**
-* ⚡ Fun fact: I can debug code faster than I can make coffee!
-
+*  Currently working on innovative back-end projects using .NET technologies.
+*  Learning advanced cloud architectures and DevOps practices.
+*  Open to collaborating on open-source .NET projects.
+*  Ask me about **C#, ASP.NET Core, SQL, and API design**.
 ---
 
 ## 🛠️ Languages & Tools
