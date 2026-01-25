@@ -44,30 +44,6 @@ Hi, I'm **Karim Mahmoud**
 </table>
 
 ---
-
-## 🚀 Projects
-
-### **MechanicShop Management Platform**
-
-*(June 2025 – Aug 2025 | Full-Stack Software Engineer)*
-
-A comprehensive workshop management system that digitalizes automotive repair operations.
-
-**Key Features:**
-
-* Architected using **Clean Architecture** + **DDD**
-* Automated workflows → **40% reduction** in administrative tasks
-* Real-time repair status using **SignalR**
-* Dynamic billing system + automated reporting
-* Enhanced customer experience & business insights
-
-**Tech Stack:**
-ASP.NET Core Web API · EF Core · SQL Server · Blazor WebAssembly · SignalR · Docker · Prometheus · Seq · xUnit
-
-**Design Patterns:**
-CQRS · Clean Architecture · Domain-Driven Design
-
----
 ## 📫 Get in Touch
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/karim.mahmoud.679171/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-m-01a69a320/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim2468mahmoud2468@gmail.com)
