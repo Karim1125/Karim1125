@@ -1,4 +1,4 @@
-# README Preview (Professional Version)
+# README Preview
 
 ## 👨‍💻 About Me
 
