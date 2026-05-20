@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Projects
+## 📂 Projects
 
 ### 🎓 EduBridge — University Team Collaboration Platform
 A full-stack platform for managing university graduation projects, connecting Students, TAs, Doctors, and Admins.
